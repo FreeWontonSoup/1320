@@ -1,0 +1,4 @@
+To run my code, compile and run on the omega server. The program works with all valid input. This means that if it’s requesting a name, enter a string of characters, if it’s asking for a score, enter a float, etc. or else it will not work. When searching for a zip code or name to delete, it must be typed exactly as it was entered previously. Zip codes are strings to allow a 10 digit code like 62522-0031. Anything that is deleted is properly freed from the memory. The whole node is freed as specified in the lab instructions. New nodes are created with malloc. For input, it needs to be typed in all on one line. For example:
+
+enter record as so: first name last name score zip code
+john doe 100 76014-5000
