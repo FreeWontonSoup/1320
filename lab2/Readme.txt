@@ -1,0 +1,1 @@
+the program should run fine on every problem in the omega server. run everything with input specified from the lab2 instructions provided by dr. datta.
