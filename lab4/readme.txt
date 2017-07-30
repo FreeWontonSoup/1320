@@ -1,0 +1,4 @@
+to run this lab4, just compile it on the omega server and run. the program only accepts valid input so if the program is asking for number of records, it only works for integers and same thing for other inputs. names should be put in all lowercase or uppercase because nothing was made to treat a mix of those kind of characters. when something is deleted, every record for that user is freed from the memory as specified from the lab instructions. input for each record is taken all in one line so for example, it should be taken in like so:
+Enter records firstname lastname score
+john doe 78
+adam jacob 98
